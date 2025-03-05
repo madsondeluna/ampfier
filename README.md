@@ -41,7 +41,7 @@ pip install pandas scikit-learn
 Clone o repositório e execute:
 
 ```bash
-python seu_script.py
+python ampfier.py
 ```
 
 A saída mostrará a acurácia do modelo e os peptídeos promissores identificados pelo algoritmo.
